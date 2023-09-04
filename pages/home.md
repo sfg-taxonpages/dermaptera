@@ -3,23 +3,21 @@
 ---
 
 # {{ app:project_name }}
-{TODO: Mission statement, or vision and purpose: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.}
+The Dermaptera Species File works to build a comprehensive source for knowledge about the world’s earwigs. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for earwigs of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
+
+## Search
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
-_Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
+Explore!
+
+Try searching for species _[Forficula auricularia](http://dermaptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179591)_, or start at Genus _[Forficula](http://dermaptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179592),_  or Family _[Forficulidae](http://dermaptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179589)._
 
 ## Discover more
-Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
+See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
-### Announcement title 1
-<!--- add inline --->
-_Authors, date_
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Announcement title 2
-_Authors, date_
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Welcome to our new Dermaptera Species File Website
+Heidi Hopkins, Michael D. Maehr, Fabian Haas, Lesley S. Deem, David C. Eades, 2023-08-15
+<p>As of August 2023, we would like to welcome you to our new Dermaptera Species File website. We look forward to hearing from you about your experiences with our new features as well as how you put to use the information you find here.
+</p>
