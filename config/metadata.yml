@@ -1,8 +1,8 @@
 ---
 metadata:
   - name: description
-    content: TaxonPages is a tool to serve taxon pages.
+    content: The Dermaptera Species File is a taxonomic, nomenclatural, and bibliographic database of the earwigs of the world, including all extant and fossil taxa.
   - name: keywords
-    content: taxonomy, species, Species File Group
+    content: taxonomy, species, Species File Group, SFG, Dermaptera, earwigs, taxonpages, Dermaptera Species File.
   - name: robots
     content: follow
