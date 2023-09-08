@@ -11,7 +11,7 @@ The Dermaptera Species File works to build a comprehensive source for knowledge 
 
 Explore!
 
-Try searching for species _[Forficula auricularia](http://dermaptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179591)_, or start at Genus _[Forficula](http://dermaptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179592),_  or Family _[Forficulidae](http://dermaptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179589)._
+Try searching for species _Forficula auricularia_, or start at Genus [Forficula]({{app:project_url}}/otu/888460/overview),  or Family [Forficulidae]({{app:project_url}}/otu/888282/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
