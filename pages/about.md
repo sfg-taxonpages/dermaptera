@@ -19,7 +19,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 
 _\* Past contributor, now inactive._
 
-### How you can contribute or get help
+### Contribute or get help
 The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. [Contact us](#contribute-or-get-help) if you would like to help us address these or other gaps in the data.
 
 - **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building this Species File. 
