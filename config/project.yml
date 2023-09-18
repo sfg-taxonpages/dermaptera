@@ -1,7 +1,7 @@
 ---
   project_name: "Dermaptera Species File"
   project_citation: "Dermaptera Species File"
-  project_authors: "Hopkins, H., Maehr, M.D., Haas, F. & Deem, L.S."
+  project_authors: "Hopkins, H., Haas, F. & Deem, L.S."
   project_url: "https://dermaptera.speciesfile.org"
   project_old_url: "https://dermaptera.archive.speciesfile.org" 
   focal_taxon: "dermaptera"
