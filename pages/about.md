@@ -20,7 +20,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 _\* Past contributor, now inactive._
 
 ### Contribute or get help
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. Contact us (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. Contact us <TrackerReport label="Report a problem or offer data" tag="a"/> (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
 
 - **Cite** this website: Hopkins, H. Hass, F. & Deem, L.S. Dermaptera Species File. [retrieval date]. <https://dermaptera.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
