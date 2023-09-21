@@ -1,0 +1,5 @@
+analytics_services:
+  enableDev: true
+  analytics:
+    - id: 'G-364339516'
+
