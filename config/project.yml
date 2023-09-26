@@ -3,7 +3,7 @@
   project_citation: "Dermaptera Species File"
   project_authors: "Hopkins, H., Haas, F. & Deem, L.S."
   project_url: "https://dermaptera.speciesfile.org"
-  project_old_url: "https://dermaptera.archive.speciesfile.org" 
+  project_old_url: "http://dermaptera.archive.speciesfile.org" 
   focal_taxon: "dermaptera"
   focal_taxon_common_name: "earwigs"
   contact_email: "cockroachdoc@gmail.com"
