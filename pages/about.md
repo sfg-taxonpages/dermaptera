@@ -34,7 +34,7 @@ A goal of these pages is to ensure that the underlying data behind them are acce
 - Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/taxon/8MP8D) and its [associated API](https://api.checklistbank.org/dataset/3LR/taxon/8MP8V).
 
 ### Software
-These pages are built with completely open-source software. [Read more](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them, how they supported by the Species File Group and their many collaborators, or [join weekly support meetings](https://speciesfilegroup.org/events.html) and see how it all fits together, includes links to issue trackers.
+These pages are built with open-source software. [Read more here](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them and how they are supported by the Species File Group and their many collaborators. To get further involved [join weekly support meetings here](https://speciesfilegroup.org/events.html).
 
 ## History
 Our former website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org).
