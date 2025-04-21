@@ -31,7 +31,7 @@ A goal of these pages is to ensure that the underlying data behind them are acce
 - Data behind individual panels per page can be seen via the _Sitemap_ functionality.
 - Each page offers an option to download a _DarwinCore formatted table_ containing all data for this taxon and its children.
 - Panel data (each section on a page) and other information not available on these pages are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1).
-- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/taxon/8MP8D) and its [associated API](https://api.checklistbank.org/dataset/3LR/taxon/8MP8V).
+- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/dataset/1158).
 
 ### Software
 These pages are built with open-source software. [Read more here](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them and how they are supported by the Species File Group and their many collaborators. To get further involved [join weekly support meetings here](https://speciesfilegroup.org/events.html).
