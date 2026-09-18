@@ -1,8 +1,8 @@
 issue_trackers:
   - label: Data
-    description: E.g. missing data that I'd like to add, misspellings, or invalid data
+    description: Missing data, misspellings or typos, invalid data, or you'd like to get involved
     url: https://www.github.com/sfg-taxonpages/dermaptera/issues
 
   - label: Website
-    description: E.g. a link, panel, or other feature is not working as expected
+    description: A link, panel, or other feature is not working as expected, or you'd like to suggest a new feature
     url: https://www.github.com/SpeciesFileGroup/taxonpages/issues
