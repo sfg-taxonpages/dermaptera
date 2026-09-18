@@ -43,7 +43,6 @@ As of August 2023 all data in the former Species File Websites were frozen and s
 This Species File functionality and content is serviced in part by the Species File Group.
 
 ## Terms of use
-
 <div class="flex items-center gap-2">
   <a
     class="min-w-fit"
