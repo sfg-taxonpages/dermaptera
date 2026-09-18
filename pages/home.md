@@ -17,3 +17,5 @@ layout: blank
 
 
 The Dermaptera Species File works to build a comprehensive source for knowledge about the world’s earwigs. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for earwigs of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists. See our [About](about) page for an overview of the project, its data, the development and maintenance team, and details about how you can access the data, contribute, contact us, or get help.
+
+</div>
