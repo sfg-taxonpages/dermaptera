@@ -2,7 +2,7 @@
 layout: blank
 ---
 
-<GalleryCarousel :depiction-id="[1288923]" citations height="470px">
+<GalleryCarousel :depiction-id="[1203895]" citations height="470px">
   <div class="flex flex-col justify-center items-center w-full h-full bg-black/25 text-white gap-4 px-4 box-border">
     <span class="text-4xl font-medium">{{ app:project_name }}</span>
     <p class="text-lg sm:text-xl text-center container">A comprehensive source of knowledge about the world's Dermaptera</p>
