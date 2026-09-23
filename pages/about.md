@@ -17,7 +17,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 | Michael D. Maehr\* | Founding Curator |
 | Fabian Haas\* | Data Contributor |
 | Lesley S. Deem\* | Editor |
-| David C. Eades\* | Founding Developer |
+| David C. Eades\* | Species File Developer |
 
 _\* Past contributor, now inactive._
 
