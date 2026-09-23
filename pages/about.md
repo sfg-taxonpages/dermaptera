@@ -12,9 +12,10 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 |name|role|
 |----|----|
 | Heidi Hopkins | Lead Curator |
-| Boris Eliseev | Contributor |
+| Boris Eliseev | Assistant Curator |
+| Stephan Kleinfelder | Data Contributor |
 | Michael D. Maehr\* | Founding Curator |
-| Fabian Haas\* | Contributor |
+| Fabian Haas\* | Data Contributor |
 | Lesley S. Deem\* | Editor |
 | David C. Eades\* | Founding Developer |
 
