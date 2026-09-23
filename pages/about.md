@@ -21,7 +21,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 
 _\* Past contributor, now inactive._
 
-- **Cite** this website: Hopkins, H. & Eliseev, B. Dermaptera Species File. [retrieval date]. <https://dermaptera.speciesfile.org>. See also [Terms of use](#terms-of-use).
+- **Cite** this website: Hopkins, H., Eliseev, B., Kleinfelder, S. & Eades, D.C.  Dermaptera Species File. [retrieval date]. <https://dermaptera.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
 ### Contribute or get help
 The Earth's biodiversity is vast and the data captured to describe it, while minimal in comparison, are still immense. All projects of this nature contain gaps and errors, and contributions and corrections from users are always welcome. Known gaps in this project may include an incomplete catalog of type-material, lack of species depictions, missing biological associations, incomplete distribution records, and incomplete taxonomic/publication histories. <TrackerReport label="Report a problem, offer data, or get involved" tag="a" button-class="cursor-pointer" /> on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
