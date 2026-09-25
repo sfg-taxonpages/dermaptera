@@ -5,8 +5,16 @@
     - label: Home
       link: /
 
+    - label: About
+      link: /about
+
+    - label: News
+      link: /news
+
+    - label: Bibliography
+      link: /resources/tw/filter/bibliography
+
     - label: Search DwC
       link: /resources/tw/filter/dwc_otus
 
-    - label: About
-      link: /about
+  
